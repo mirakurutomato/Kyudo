@@ -13,7 +13,7 @@ MediaPipeを用いた姿勢推定により、「三重十文字（肩・腰・�
 
 本研究は以下の学会で高く評価されました。
 
-* **🏆 優秀発表賞 (Excellent Presentation Award)**
+* **優秀発表賞 (Excellent Presentation Award)**
   * **大会名**: 令和7年度 電気・電子・情報関係学会四国支部連合大会  
       (2025 Shikoku Section Joint Convention of the Institutes of Electrical and Related Engineers)
   * **発表題目**: リアルタイム姿勢推定による弓道フォーム評価手法の提案とWeb実装
